@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **LittleHeap/LittleHeap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi I'm Shaoyong Wang
+
+- 🔭 I’m currently studying in NYU.
+- 🤔 I’m looking for 2021 New Grad Software Development fulltime job
+- 📫 How to reach me: wangshaoyong1997@gmail.com
+- 😄 Pronouns: LittleHeap
+- ⚡ Hobby: Texas Poker
