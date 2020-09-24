@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 School: New York University
 - 🌱 Major: Master of Computer Engineering
+- 👯 LeetCode Global Rank: 1432/129682 (Top 1%) 
 - 🤔 Now: Looking for 2021 New Grad Software Development fulltime job
 - 📫 Email: wangshaoyong1997@gmail.com
 - 😄 Pronouns: LittleHeap
