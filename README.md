@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi I'm Shaoyong Wang
 
-- 🔭 I’m currently studying in NYU.
-- 🤔 I’m looking for 2021 New Grad Software Development fulltime job
-- 📫 How to reach me: wangshaoyong1997@gmail.com
+- 🔭 School: New York University
+- 🌱 Major: Master of Computer Engineering
+- 🤔 Now: Looking for 2021 New Grad Software Development fulltime job
+- 📫 Email: wangshaoyong1997@gmail.com
 - 😄 Pronouns: LittleHeap
 - ⚡ Hobby: Texas Poker
