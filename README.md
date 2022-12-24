@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ### Hi I'm Shaoyong Wang
 
 - 📫 Email: wangshaoyong1997@gmail.com
+- 💬 Wechat: little_heap
 - 🔭 University: New York University
 - 🌱 Major: Computer Science
 - 👯 LeetCode Global Rank: Top 1.5%
