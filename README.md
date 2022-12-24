@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 ### Hi I'm Shaoyong Wang
 
 - 📫 Email: wangshaoyong1997@gmail.com
-- 🔭 School: New York University
-- 🌱 Major: Master of Computer Engineering
-- 👯 LeetCode Global Rank: Top 1%
+- 🔭 University: New York University
+- 🌱 Major: Computer Science
+- 👯 LeetCode Global Rank: Top 1.5%
 - 🤔 Now: Working at VMware (Cloud Service Platform)
-- 😄 Pronouns: LittleHeap
 - ⚡ Hobby: Texas Poker
