@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 ### Hi I'm Shaoyong Wang
 
 - 📫 Email: wangshaoyong1997@gmail.com
-- 💬 Wechat: little_heap
+- 💬 Wechat: min_heap
 - 🔭 University: New York University
 - 🌱 Major: Computer Science
-- 👯 LeetCode Global Rank: Top 1.5%
+- 👯 LeetCode Global Rank: Top 1.1%
 - 🤔 Now: Working at VMware (Cloud Service Platform)
-- ⚡ Hobby: Texas Poker
+- ⚡ Hobby: Texas Hold'em
